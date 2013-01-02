@@ -15,11 +15,12 @@ A numbers-based (communication) language. Consists of only 25 words.
 61 63 65 67 69
 81 83 85 87 89
 ~~~
-    45: center, main, startpoint
-    25: top, 47: right, 65: bottom, 43: left
+    43: left, negative
+    45: center, root, null, start
+    47: right, positive
 ###Combos
-    4547: move
-    4545: passive, die
-    4565: go down
-    4525: improve
+    4347: fix, progress
+    4545: inactivity, die
+    4547: activity, live
+
 
