@@ -2,12 +2,12 @@
 ==
 A numbers-based (communication) language. Consists of only 25 words.
 
-##Numbers
+###Numbers
 ~~~
 02468
 13579
 ~~~
-##Pairs of numbers
+###Pairs of numbers
 ~~~
 01 03 05 07 09
 21 23 25 27 29
